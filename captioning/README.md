@@ -7,6 +7,8 @@ applications that apply subtitles/captions to video.
 |------|-------|--------|-----|--------------|-------------|----------|--------|---------|
 | [scott-ko.mp4](scott-ko.mp4) | 1920 | 1080 | 24 | 16:9 | Horizontal | 0 | 25s | [Preview](https://youtu.be/oMadx7EQMcA)
 
+A [transcript.srt](transcript.srt) file is also included.
+
 ### Attribution
 
 Scott Ko - [www.scottko.com.au](https://www.scottko.com.au) ([@thescottko](https://twitter.com/thescottko)).
