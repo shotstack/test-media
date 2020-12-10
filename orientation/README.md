@@ -13,3 +13,6 @@ shot using a Samsung Galaxy S9.
 ### Attribution
 
 Jeff Shillitto ([@jeffski](https://github.com/jeffski)).
+
+### License
+[CC0](../LICENSE)

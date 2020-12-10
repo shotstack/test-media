@@ -1,6 +1,6 @@
 # Transcription, Subtitle and Captioning Test Videos
 
-This example video will be useful for automated video transcription systems such as AWS Transcribe or for testing
+This example will be useful for testing automated video transcription systems such as AWS Transcribe or for 
 applications that apply subtitles/captions to video.
 
 | File | Width | Height | FPS | Aspect Ratio | Orientation | Rotation | Length | Preview |
@@ -10,3 +10,6 @@ applications that apply subtitles/captions to video.
 ### Attribution
 
 Scott Ko - [www.scottko.com.au](https://www.scottko.com.au) ([@thescottko](https://twitter.com/thescottko)).
+
+### License
+[CC0](../LICENSE)
